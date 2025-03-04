@@ -1,0 +1,10 @@
+{
+    "Scholars":[
+        {
+            "Name": "axie1",
+            "PrivateKey": "",
+            "AccountAddress": "axie1 account address",
+            "ScholarPayoutAddress": "<designated wallet address for the collected axs in this account>"
+        }
+    ]
+}
